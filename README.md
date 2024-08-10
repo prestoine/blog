@@ -1,4 +1,4 @@
-# Astro Starter Kit: Minimal
+# Astro Blog - Preston deSouza
 
 ```sh
 npm create astro@latest -- --template minimal
