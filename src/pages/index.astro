@@ -5,7 +5,7 @@ import { getCollection } from 'astro:content';
 const posts = await getCollection('blog');
 ---
 
-<MainLayout title="My Astro Blog">
+<MainLayout title="Preston's Astro Blog">
   <h1>Welcome to My Blog</h1>
   <ul>
     {posts.map((post) => (
